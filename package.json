@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/claytonnguyen/ethereum/issues"
   },
-  "homepage": "https://github.com/claytonnguyen/ethereum#readme"
+  "homepage": "https://github.com/claytonnguyen/ethereum#readme",
+  "dependencies": {
+    "solc": "^0.4.17"
+  }
 }
